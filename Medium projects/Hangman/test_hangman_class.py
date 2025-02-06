@@ -1,4 +1,4 @@
-from hangman_oop1 import SecretWord
+from hangman_class  import SecretWord
 
 
 def test_secret_word_show_letters():
